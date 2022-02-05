@@ -6,18 +6,16 @@
 
 ## What this project is:
 
-- This is the first little project I have completed from the
-  recommended project list at https://github.com/EONRaider/100-redteam-projects.
+- This project is a TCP server that receives messages.
 
-## Where does the idea come from:
+## Why am I doing it:
 
 - I am working through these projects as I have an interest in cyber-security that I would like to develop.
 
-## Why am I doing it?
+## Where does this project idea come from?
 
-- This project is a TCP server that receives messages.
+- This is the first little project I have completed from the recommended project list at https://github.com/EONRaider/100-redteam-projects.
 
-&nbsp;
 &nbsp;
 
 ## Main difficulty
