@@ -10,11 +10,11 @@
 
 ## Why am I doing it:
 
-- I am working through these projects as I have an interest in cyber-security that I would like to develop.
+- I am working through the project list below as I have an interest in cyber-security that I would like to develop.
 
 ## Where does this project idea come from?
 
-- This is the first little project I have completed from the recommended project list at https://github.com/EONRaider/100-redteam-projects.
+- https://github.com/EONRaider/100-redteam-projects.
 
 ## Main difficulty
 
