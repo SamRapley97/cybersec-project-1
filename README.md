@@ -16,8 +16,6 @@
 
 - This is the first little project I have completed from the recommended project list at https://github.com/EONRaider/100-redteam-projects.
 
-&nbsp;
-
 ## Main difficulty
 
 > **Setting up and correctly using TELNET to check the server.**
