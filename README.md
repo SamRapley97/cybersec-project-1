@@ -20,8 +20,6 @@
 
 > **Setting up and correctly using TELNET to check the server.**
 
-&nbsp;
-
 ## What I've gained
 
 > **More confident use of node.js and command line.**
